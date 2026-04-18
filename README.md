@@ -1,2 +1,0 @@
-# App.py
-Make apk
